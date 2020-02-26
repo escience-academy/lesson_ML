@@ -4,6 +4,6 @@ layout: reference
 
 ## Glossary
 
-FIXME
+Overfitting
 
 {% include links.md %}
